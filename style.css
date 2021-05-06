@@ -1,0 +1,42 @@
+.a1 {
+  color:orange;
+  font-size: 15px;
+  font-weight: bold;
+}
+.a2 {
+    color: #13db2e;
+    font-size: 15px;
+    font-weight: bold;
+  }
+table {
+  width: 30%;
+  padding: 3px;
+  margin-left: 400px ;
+}
+div {
+  margin-left: 400px;
+}
+label{
+    font-style: italic;
+}
+h2{
+  text-align: center;
+}
+iframe{
+  margin-left: 200px;
+  margin-right: 200px;
+}
+input{
+  width: 500px;
+  height: 30px;
+
+}
+.submit
+{
+  width: 100px;
+  height: 30px;
+  text-align: center;
+  margin-left: 200px;
+  margin-right: 200px;
+  font-style:normal;
+}
