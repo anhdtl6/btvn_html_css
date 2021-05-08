@@ -9,7 +9,7 @@ x.style.fontWeight="bold"
 // Gợi ý: Sử dụng .style.backgroundColor
 document.getElementById("OMG-footer").style.backgroundColor="#0984e3"
 // Đổi đoạn text ở footer từ "© 2020 One Mount Group, JSC." thành "© 2021 One Mount Group, JSC."
-// Gợi ý: Sử dụng .innerText
+// Gợi ý: Sử dụng .innerText OK
 document.getElementsByTagName("p")[2].innerText="© 2021 One Mount Group, JSC."
 // Đổi ảnh đầu tiên thành ảnh onhousing.png
 // Gợi ý: Sử dụng .src
