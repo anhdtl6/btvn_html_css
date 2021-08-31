@@ -1,30 +1,31 @@
 .a1 {
-  color:orange;
+  color:black;
   font-size: 15px;
   font-weight: bold;
 }
-.a2 {
-    color: #13db2e;
-    font-size: 15px;
-    font-weight: bold;
-  }
-table {
-  width: 30%;
-  padding: 3px;
-  margin-left: 400px ;
+.a2
+{
+  color:black;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: left;
+}
+.img
+{
+  text-align: center;
+  height: 100%;
+  width: 100%;
+  
 }
 div {
-  margin-left: 400px;
+  margin-left: 250px;
+  margin-right: 250px ;
+  text-align: justify;
 }
-label{
-    font-style: italic;
-}
-h2{
+.p1{
   text-align: center;
-}
-iframe{
-  margin-left: 200px;
-  margin-right: 200px;
+  font-size: 48px;
+  font-weight: bold;
 }
 input{
   width: 500px;
@@ -36,7 +37,8 @@ input{
   width: 100px;
   height: 30px;
   text-align: center;
-  margin-left: 200px;
-  margin-right: 200px;
   font-style:normal;
+  font-weight: bold;
+  background-color:rgb(241, 239, 239);
+  border: none;
 }
